@@ -6,17 +6,10 @@
 .pnp.js
 .yarn/install-state.gz
 
-# testing
-/coverage
 
 
 
-# production
-/build
 
-# misc
-.DS_Store
-*.pem
 
 # debug
 npm-debug.log*
@@ -29,4 +22,3 @@ yarn-error.log*
 
 next-env.d.ts
 
-/certificates
